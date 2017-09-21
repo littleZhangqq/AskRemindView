@@ -24,7 +24,7 @@
 }
 
 -(void)initViews{
-    //
+    //////
     self.view.backgroundColor = [UIColor whiteColor];
 
     NSArray *titlearr = @[@"btn1",@"btn2",@"btn3",@"btn3"];
